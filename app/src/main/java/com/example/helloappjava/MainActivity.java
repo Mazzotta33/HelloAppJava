@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
         Log.d(TAG, "onCreate: started ");
+        Log.d(TAG, "onCreate: started from github");
+        Log.d(TAG, "onCreate: started from github again!!!!!!!!");
     }
 
     @Override
